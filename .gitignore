@@ -1,0 +1,6 @@
+# ignore Xojo debug
+Debugfaqro-web-browser
+*.exe
+*.dll
+*.dat
+*.bin
